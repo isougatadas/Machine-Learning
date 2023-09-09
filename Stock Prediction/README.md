@@ -26,7 +26,7 @@ pip install pandas numpy yfinance plotly scikit-learn
 To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 ```Clone this repository to your local machine:
-git clone https://github.com/your-username/stock-price-prediction.git
+git clone https://github.com/isougatadas/Machine-Learning/Stock Prediction/Stock Prediction using ML.git
 ```
 1. Navigate to the project directory:
 ```
