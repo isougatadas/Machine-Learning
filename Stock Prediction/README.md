@@ -30,7 +30,7 @@ git clone https://github.com/isougatadas/Machine-Learning/Stock Prediction/Stock
 ```
 1. Navigate to the project directory:
 ```
-cd stock-price-prediction
+cd Machine-Learning/Stock Prediction/
 ```
 1. Open the Jupyter Notebook or Python script containing the code.
 2. Customize the code for your specific stock symbol and dataset.
